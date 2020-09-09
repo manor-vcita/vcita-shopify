@@ -1,0 +1,27 @@
+{
+  "name": "vcita-shopify",
+  "version": "1.0.0",
+  "description": "Shopify-vcita integration",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manor-vcita/vcita-shopify.git"
+  },
+  "keywords": [
+    "vcita",
+    "shopify"
+  ],
+  "author": "Manor Ben-Shimon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manor-vcita/vcita-shopify/issues"
+  },
+  "homepage": "https://github.com/manor-vcita/vcita-shopify#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "shopify-api-node": "^3.4.4"
+  }
+}
